@@ -77,7 +77,8 @@ Streamlit Deployment
 | LightGBM | 0.9679 |
 | Isolation Forest | 0.8717 |
 
-✅ **Best Model: Random Forest (ROC-AUC: 0.9850)**
+✅ **Best ROC-AUC: Random Forest (0.9850)**
+🚀 **Deployed Model: XGBoost Tuned with RandomizedSearchCV (ROC-AUC: 0.9817)**
 
 ---
 
