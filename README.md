@@ -169,5 +169,5 @@ Used **SMOTE (Synthetic Minority Oversampling Technique)** inside the sklearn pi
 
 ## 👤 Author
 
-**Abinesh**
+**Abenesh**
 - GitHub: [@abenesh123](https://github.com/abenesh123)
